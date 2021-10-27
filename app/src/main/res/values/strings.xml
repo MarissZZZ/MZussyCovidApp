@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COVID-19_App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <array name="division">
+        <item>Covid</item>
+        <item>Informācija</item>
+        <item>Lietotnes</item>
+    </array>
+</resources>
